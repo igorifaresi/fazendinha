@@ -4,4 +4,4 @@ wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download
 
 mplayer -vo caca video.mp4
 
-#rm -f video.mp4
+rm -f video.mp4
