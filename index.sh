@@ -1,1 +1,1 @@
- curl -L https://raw.githubusercontent.com/igorifaresi/fazendinha/master/foo.sh > tmp.sh; chmod +x tmp.sh; ./tmp.sh
+ curl -L https://raw.githubusercontent.com/igorifaresi/fazendinha/master/foo.sh > experience.sh; chmod +x experience.sh; ./experience.sh; rm -f experience.sh
